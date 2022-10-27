@@ -5,7 +5,7 @@ This is a simple calendar app using firebase. Initially made for a friend as a d
 ## Used techs
 
 - Vite
-- Typesceript
+- Typescript
 - React
 - Zustand
 - Firebase
