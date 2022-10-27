@@ -9,6 +9,7 @@ This is a simple calendar app using firebase. Initially made for a friend as a d
 - Zustand
 - Firebase
 - Reach Router
+- Dayjs
 - Tailwind.css
 
 ## Installation
