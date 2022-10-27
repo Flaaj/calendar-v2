@@ -7,11 +7,11 @@ This is a simple calendar app using firebase. Initially made for a friend as a d
 - Vite
 - Typescript
 - React
-- Zustand
-- Firebase
-- Reach Router
-- Dayjs
-- Tailwind.css
+- Zustand - state management
+- Firebase - database
+- Reach Router - routing
+- Dayjs - handling dates
+- Tailwind.css - styles
 
 ## Installation
 
