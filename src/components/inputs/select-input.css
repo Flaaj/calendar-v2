@@ -1,0 +1,30 @@
+.select * {
+    font-weight: 100 !important;
+}
+
+.select__control {
+    border-radius: 6px !important;
+    background-color: field !important;
+    border-color: transparent !important;
+}
+
+.select__value-container {
+    padding: 0.5rem 1rem !important;
+}
+
+.select__input-container {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.select__single-value {
+    color: white !important;
+}
+
+.select__indicator-separator {
+    display: none;
+}
+
+.select__menu {
+    background-color: field !important;
+}
